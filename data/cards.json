@@ -1,0 +1,1115 @@
+[
+    {
+        "catalogId": 2,
+        "catalogName": "模型检测",
+        "resources": [
+            {
+                "id": 1,
+                "name": "Prism",
+                "description": "PRISM is a probabilistic model checker, a tool for the modelling and analysis of systems which exhibit probabilistic behaviour. Probabilistic model checking is a formal verification technique. It is based on the construction of a precise mathematical model of a system which is to be analysed. Properties of this system are then expressed formally in temporal logic and automatically analysed against the constructed model.",
+                "url": "https://www.prismmodelchecker.org",
+                "logo": "./images/logos/prism_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            }
+        ]
+    },
+    {
+        "catalogId": 3,
+        "catalogName": "论文检索与写作",
+        "resources": [
+            {
+                "id": 2,
+                "name": "Overleaf",
+                "description": "Overleaf 是一款比较好的论文写作工具，它能够很好的书写论文中的数学公式，代码等格式，对 LaTeX 公式有很好的兼容。",
+                "url": "https://www.overleaf.com",
+                "logo": "./images/logos/overleaf_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 56,
+                "name": "arXiv.org",
+                "description": "arXiv.org 是一个收录科学文献预印本的在线数据库，其中包含计算机科学、物理、数学、定量生物学、定量金融、统计学、电气工程和系统科学以及经济学领域的 1,980,928 篇学术文章。",
+                "url": "https://arxiv.org/",
+                "logo": "./images/logos/arXiv_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 57,
+                "name": "中国知网",
+                "description": "面向海内外读者提供中国学术文献、外文文献、学位论文、报纸、会议、年鉴、工具书等各类资源统一检索、统一导航、在线阅读和下载服务。涵盖基础科学、文史哲、工程科技、社会科学、农业、经济与管理科学、医药卫生、信息科技等十大领域。",
+                "url": "https://www.cnki.net",
+                "logo": "./images/logos/cnki_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 58,
+                "name": "SciHub 学术导航",
+                "description": "国内外学术文献相关工具！",
+                "url": "https://www.scihub.net.cn",
+                "logo": "./images/logos/sci_hub_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 59,
+                "name": "Zotero 文献管理",
+                "description": "zotero 是开源的文献管理工具，可以方便的收集，组织，引用，和共享文献的工具。由安德鲁·w·梅隆基金会，斯隆基金会以及美国博物馆和图书馆服务协会资助开发。",
+                "url": "https://www.zotero.org",
+                "logo": "./images/logos/zotero_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 72,
+                "name": "dblp",
+                "description": "DBLP（DataBase systems and Logic Programming）是计算机科学期刊和会议记录的开放书目信息的文献数据库。",
+                "url": "https://dblp.uni-trier.de",
+                "logo": "./images/logos/dblp_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 73,
+                "name": "谷歌学术",
+                "description": "【需VPN】谷歌学术包含了世界上绝大部分出版的学术文献，对于科研工作者、学术研究、高学历人员而言是一个必不可少的闻言搜索利器！谷歌学术收录约2亿篇文章，数据庞大，这就要求使用者有一定的 文献检索能力。",
+                "url": "https://scholar.google.com.hk",
+                "logo": "./images/logos/google_scholar_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            }
+        ]
+    },
+    {
+        "catalogId": 4,
+        "catalogName": "Android 资源",
+        "resources": [
+            {
+                "id": 55,
+                "name": "Android 开发者网站",
+                "description": "专门为开发者打造的网站，包含Android开发文档、Kotlin文档、最新的移动开发资讯、工具等！",
+                "url": "https://developer.android.google.cn",
+                "logo": "./images/logos/android_dev_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 74,
+                "name": "Kotlin 官网",
+                "description": "A modern programming language that makes developers happier.",
+                "url": "https://kotlinlang.org",
+                "logo": "./images/logos/kotlin_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            }
+        ]
+    },
+    {
+        "catalogId": 6,
+        "catalogName": "搜索引擎",
+        "resources": [
+            {
+                "id": 13,
+                "name": "谷歌搜索",
+                "description": "被公认为全球最大的搜索引擎公司。谷歌是一家位于美国的跨国科技企业，业务包括互联网搜索、云计算、广告技术等。",
+                "url": "https://google.cn",
+                "logo": "./images/logos/google_search_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 14,
+                "name": "百度搜索",
+                "description": "百度是拥有强大互联网基础的领先 AI 公司。百度愿景是：成为最懂用户，并能帮助人们成长的全球顶级高科技公司。",
+                "url": "https://www.baidu.com",
+                "logo": "./images/logos/baidu_search_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 15,
+                "name": "360 搜索",
+                "description": "奇虎360公司开发的基于机器学习技术的第三代搜索引擎，具备“自学习、自进化”能力和发现用户最需要的搜索结果。",
+                "url": "https://www.so.com",
+                "logo": "./images/logos/360_search_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 16,
+                "name": "搜狗",
+                "description": "搜狗搜索（sogou.com）是中国领先的中文搜索引擎，致力于中文互联网信息的深度挖掘，帮助中国上亿网民加快信息获取速度，为用户创造价值。",
+                "url": "https://www.sogou.com",
+                "logo": "./images/logos/sougou_search_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 17,
+                "name": "Microsoft Bing",
+                "description": "微软必应（英文名：Microsoft Bing），原名必应（Bing），是微软公司于2009年5月28日推出，用以取代Live Search的全新搜索引擎服务。为符合中国用户使用习惯，Bing中文品牌名为“必应”。",
+                "url": "https://cn.bing.com",
+                "logo": "./images/logos/bing_search_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 70,
+                "name": "Jiumo 文档搜索引擎",
+                "description": "鸠摩搜索, 文档, 电子书, 摩鸠, 鸠魔, 鸩摩, 九磨, 官网, 就摸, 鸠, kindle, ebook, jiumosoushu, 找书",
+                "url": "https://www.jiumodiary.com",
+                "logo": "./images/logos/jiumo_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            }
+        ]
+    },
+    {
+        "catalogId": 7,
+        "catalogName": "翻译工具",
+        "resources": [
+            {
+                "id": 63,
+                "name": "Google 翻译",
+                "description": "Google 的免费翻译服务可提供简体中文和另外 100 多种语言之间的互译功能，可让您即时翻译字词、短语和网页内容。",
+                "url": "https://translate.google.cn",
+                "logo": "./images/logos/google_fanyi_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 64,
+                "name": "DeepL",
+                "description": "一款优于 Google Translate 的在线免费翻译器，翻译文档更加精确和快速，未来可能收费！",
+                "url": "https://www.deepl.com/translator",
+                "logo": "./images/logos/deepl_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 65,
+                "name": "有道翻译",
+                "description": "有道翻译是网易公司开发的一款翻译软件，其最大特色在于翻译引擎是基于搜索引擎，网络释义的，也就是说它所翻译的词释义都是来自网络。",
+                "url": "https://fanyi.youdao.com",
+                "logo": "./images/logos/youdao_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 66,
+                "name": "百度翻译",
+                "description": "百度翻译提供即时免费的多语种文本翻译和网页翻译服务，支持中、英、日、韩、泰、法、西、德等28种热门语言互译，覆盖756个翻译方向。",
+                "url": "https://fanyi.baidu.com",
+                "logo": "./images/logos/baidu_fanyi_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 67,
+                "name": "微软翻译",
+                "description": "Microsoft Translator是微软开发的微软翻译应用，该应用可以实现同时100人之间的翻译交流功能，通过智能手机、平板电脑或者 Windows PC 安装最新版微软翻译应用即可实现，这一创新也将令人类彻底打破语言沟通障碍的目标更进一步。",
+                "url": "https://cn.bing.com/translator",
+                "logo": "./images/logos/bing_fanyi_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 68,
+                "name": "CNKI 学术翻译",
+                "description": "CNKI专业文献机器翻译技术是中国知网于2020最新推出的针对专业领域内术语繁多、行业属性突出、跨专业歧义处理等翻译问题而研发的学术领域专用机器翻译技术，目前已被广泛应用于CNKI双语知识服务平台的开发。",
+                "url": "https://dict.cnki.net/index",
+                "logo": "./images/logos/cnki_fanyi_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 69,
+                "name": "海词词典",
+                "description": "海词词典是中国第一个在线词典,海量权威词典官方网站。独有2000万词汇,配释义饼图、精细讲解、优质例句,专业提供60个行业11个语种的在线词典和在线翻译服务。",
+                "url": "https://dict.cn",
+                "logo": "./images/logos/haici_fanyi_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            }
+        ]
+    },
+    {
+        "catalogId": 8,
+        "catalogName": "文档写作",
+        "resources": [
+            {
+                "id": 27,
+                "name": "Notepad++",
+                "description": "Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages.",
+                "url": "https://notepad-plus-plus.org",
+                "logo": "./images/logos/notepad_pp_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 28,
+                "name": "Typora",
+                "description": "一款非常好用的 Mardown 编辑器，程序员必备利器。",
+                "url": "https://typora.io",
+                "logo": "./images/logos/typora_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 38,
+                "name": "XMind",
+                "description": "XMind 是一个全功能的思维导图和头脑风暴软件，为激发灵感和创意而生。作为一款有效提升工作和生活效率的生产力工具，受到全球百千万用户的青睐",
+                "url": "https://www.xmind.cn",
+                "logo": "./images/logos/xmind_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 53,
+                "name": "ProcessOn",
+                "description": "ProcessOn是一个在线协作绘图平台，为用户提供强大、易用的作图工具！支持在线创作流程图、思维导图、组织结构图、网络拓扑图、BPMN、UML图、UI界面原型设计、iOS界面原型设计等。同时依托于互联网实现了人与人之间的实时协作和共享。",
+                "url": "https://www.processon.com",
+                "logo": "./images/logos/processon_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 54,
+                "name": "Notion",
+                "description": "Notion 是提供的笔记、任务、维基和数据库的一体式工作空间。它支持web浏览器预览和编辑！",
+                "url": "https://www.notion.so",
+                "logo": "./images/logos/notion_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            }
+        ]
+    },
+    {
+        "catalogId": 10,
+        "catalogName": "开发工具",
+        "resources": [
+            {
+                "id": 29,
+                "name": "Intellij IDEA",
+                "description": "IntelliJ在业界被公认为最好的java开发工具，尤其在智能代码助手、代码自动提示、重构、JavaEE支持、各类版本工具(git、svn等)、JUnit、CVS整合、代码分析、 创新的GUI设计等方面的功能可以说是超常的。",
+                "url": "https://www.jetbrains.com/idea",
+                "logo": "./images/logos/idea_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 30,
+                "name": "VSCode",
+                "description": "Microsoft 在 2015年4月30日Build开发者大会上正式宣布一个运行于 Mac OS X、Windows和 Linux 之上的，针对于编写现代Web和云应用的跨平台源代码编辑器。",
+                "url": "https://code.visualstudio.com",
+                "logo": "./images/logos/vscode_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 31,
+                "name": "Chalers",
+                "description": "一个HTTP代理服务器,HTTP监视器,反转代理服务器，当浏览器连接 Charles 的代理访问互联网时，Charles可以监控浏览器发送和接收的所有数据。它允许一个开发者查看所有连接互联网的HTTP通信，这些包括 request, response 和 HTTP headers（包含cookies与caching信息）。",
+                "url": "https://www.charlesproxy.com",
+                "logo": "./images/logos/charles_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 32,
+                "name": "Postman",
+                "description": "Postman 是一种常用的接口测试工具，可以发送几乎所有类型的HTTP请求。Postman适用于不同的操作系统，Postman Mac、Windows X32、Windows X64、Linux系统，还支持postman 浏览器扩展程序、postman chrome应用程序等。",
+                "url": "https://www.postman.com",
+                "logo": "./images/logos/postman_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 33,
+                "name": "SwitchHost",
+                "description": "switchhost 一键切 host ，告别传统修改 host 文件。",
+                "url": "https://swh.app/zh",
+                "logo": "./images/logos/switch_host_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 34,
+                "name": "SourceTreeapp",
+                "description": "为Git提供的可视化工具，可以通过该工具完成代码提交、分支管理、提交记录等功能。",
+                "url": "https://www.sourcetreeapp.com",
+                "logo": "./images/logos/sourcetreeapp_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 35,
+                "name": "Navicat",
+                "description": "数据库可视化工具，支持多种主流数据库。",
+                "url": "https://www.navicat.com/en",
+                "logo": "./images/logos/navicat_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 36,
+                "name": "httpie",
+                "description": "httpie 就是 curl 的一个非常好的替代者，它的使用更加简洁明了，而且能够高亮显示请求结果。",
+                "url": "https://github.com/httpie/httpie",
+                "logo": "./images/logos/httpie_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 37,
+                "name": "kkFileView",
+                "description": "kkFileView为文件文档在线预览解决方案，该项目使用流行的 Spring Boot 搭建，易上手和部署，基本支持主流办公文档的在线预览，如 doc,docx,xls,xlsx,ppt,pptx,pdf,txt,zip,rar,图片,视频,音频等等",
+                "url": "https://kkfileview.keking.cn/zh-cn/index.html",
+                "logo": "./images/logos/kkFileView_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 39,
+                "name": "MobaXterm",
+                "description": "MobaXterm 为 Windows 桌面提供所有重要的远程网络工具（SSH、X11、RDP、VNC、FTP、MOSH 等）和 Unix 命令（bash、ls、cat、sed、grep、awk、rsync 等）。",
+                "url": "https://mobaxterm.mobatek.net",
+                "logo": "./images/logos/mobaXterm_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            }
+        ]
+    },
+    {
+        "catalogId": 11,
+        "catalogName": "技术社区",
+        "resources": [
+            {
+                "id": 40,
+                "name": "CSDN",
+                "description": "中国专业IT社区CSDN (Chinese Software Developer Network) 创立于1999年，致力于为中国软件开发者提供知识传播、在线学习、职业发展等全生命周期服务。",
+                "url": "https://csdn.net",
+                "logo": "./images/logos/csdn_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 41,
+                "name": "博客园",
+                "description": "博客园是一个面向开发者的知识分享社区，创立于2004年1月。自创建以来，博客园一直致力并专注于为开发者打造一个纯净的技术交流社区，推动并帮助开发者通过互联网分享知识，从而让更多开发者从中受益。",
+                "url": "https://www.cnblogs.com",
+                "logo": "./images/logos/cnblogs_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 42,
+                "name": "掘金",
+                "description": "一个帮助开发者成长的社区。",
+                "url": "https://juejin.cn",
+                "logo": "./images/logos/juejin_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 43,
+                "name": "OSChina",
+                "description": "OSCHINA 成立于2008年8月，是目前国内最大的开源技术社区，拥有超过300万会员，形成了由开源软件库、代码分享、资讯、协作翻译、讨论区和博客等几大频道内容，为IT开发者提供了一个发现、使用、并交流开源技术的平台。",
+                "url": "https://oschina.net",
+                "logo": "./images/logos/oschina_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 44,
+                "name": "SegmentFault",
+                "description": "SegmentFault 是一家中文的开发者社区及媒体。最初的产品原型来自于国外最大的程序员问答社区 StackOverflow，但其产品形态经过一年多的发展,已经有问答、博客、活动等，它还是多个黑客马拉松活动的组织方。",
+                "url": "https://segmentfault.com",
+                "logo": "./images/logos/segmentfault_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 45,
+                "name": "LandScape",
+                "description": "Cloud Native Computing Foundation是一个Linux Foundation项目，成立于2015年，旨在帮助推进容器技术并使技术行业围绕其发展方向进行调整。",
+                "url": "https://landscape.cncf.io",
+                "logo": "./images/logos/landscape_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            }
+        ]
+    },
+    {
+        "catalogId": 12,
+        "catalogName": "代码平台",
+        "resources": [
+            {
+                "id": 18,
+                "name": "GitHub",
+                "description": "面向开源及私有软件项目的托管平台。",
+                "url": "https://github.com",
+                "logo": "./images/logos/github_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 19,
+                "name": "Gitee",
+                "description": "Gitee是开源中国（OSChina）推出的基于Git的代码托管服务，Gitee包括三个版本，分别是：社区版、企业版和高校版。",
+                "url": "https://gitee.com",
+                "logo": "./images/logos/gitee_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 20,
+                "name": "CODING",
+                "description": "在云计算时代，扣钉 CODING 致力于通过技术创新推动软件开发与交付模式的转变，让开发更简单。",
+                "url": "https://coding.net",
+                "logo": "./images/logos/coding_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 21,
+                "name": "Travis CI",
+                "description": "Travis CI 是新兴的开源持续集成构建项目，它与jenkins，GO的很明显的特别在于采用yaml格式，简洁清新独树一帜。大多数的github项目都已经移入到Travis CI的构建队列中，据说Travis CI每天运行超过4000次完整构建。",
+                "url": "https://travis-ci.org",
+                "logo": "./images/logos/travis_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 22,
+                "name": "Netlify",
+                "description": "一个可以用来做静态网站的持续集成与持续部署的工具. 通过 Netlify, 用户可以非常简单地为其静态网站项目引入持续集成, 并且允许其他成员对静态网站进行 UI 层面的 review。",
+                "url": "https://www.netlify.com",
+                "logo": "./images/logos/netlify_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 23,
+                "name": "百度云效率",
+                "description": "百度效率云 | Git代码托管，版本管理，项目管理，持续集成，持续交付，研发工具云端解决方案。",
+                "url": "http://xiaolvyun.baidu.com",
+                "logo": "./images/logos/xiaolvyun_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 24,
+                "name": "Google-Code",
+                "description": "谷歌的一款代码托管平台，需要 vpn 才能访问。",
+                "url": "https://code.google.com",
+                "logo": "./images/logos/google_code_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 25,
+                "name": "BitBucket",
+                "description": "BitBucket 是一家源代码托管网站，采用Mercurial和Git作为分布式版本控制系统，同时提供商业计划和免费账户。",
+                "url": "https://bitbucket.org",
+                "logo": "./images/logos/bitbucket_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 26,
+                "name": "CSDN-CODE-CHINA",
+                "description": "CSDN平台推出的一款源代码托管平台。",
+                "url": "https://codechina.csdn.net",
+                "logo": "./images/logos/csdn_code_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            }
+        ]
+    },
+    {
+        "catalogId": 13,
+        "catalogName": "娱乐资源",
+        "resources": [
+            {
+                "id": 47,
+                "name": "BTNULL",
+                "description": "一个免费的、可观看最近正在热播的电视剧和电影的网站！",
+                "url": "https://www.btnull.org",
+                "logo": "./images/logos/btnull_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            }
+        ]
+    },
+    {
+        "catalogId": 14,
+        "catalogName": "技术文档",
+        "resources": [
+            {
+                "id": 3,
+                "name": "Git Book",
+                "description": "Git是一个开源的分布式版本控制系统，可以有效、高速的处理从很小到非常大的项目版本管理。也是Linux Torvalds为了帮助管理Linux内核开发而开发的一个开放源码的版本控制软件。",
+                "url": "https://git-scm.com/book/zh/v2",
+                "logo": "./images/logos/gitbook_logo@2x.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 4,
+                "name": "Hutool",
+                "description": "Hutool是一个小而全的Java工具类库，通过静态方法封装，降低相关API的学习成本，提高工作效率，使 Java 拥有函数式语言般的优雅，让 Java 语言也可以“甜甜的”；它涵盖了Java开发底层代码中的方方面面，它既是大型项目开发中解决小问题的利器，也是小型项目中的效率担当。",
+                "url": "https://hutool.cn/docs",
+                "logo": "./images/logos/hutool_logo.jpg",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 5,
+                "name": "Mybatis-Plus",
+                "description": "MyBatis-Plus（简称 MP）是一个 MyBatis 的增强工具，在 MyBatis 的基础上只做增强不做改变，为简化开发、提高效率而生。封装了对表的 CRUD 的 SQL 语句，可以让开发者写更少的 SQL 语句，更加专注业务逻辑！ ",
+                "url": "https://baomidou.com/guide",
+                "logo": "./images/logos/mybatisplus_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 6,
+                "name": "JDK1.8 参考文档",
+                "description": "JDK 是 Java 语言的软件开发工具包，它是 Java 开发的核心，包含了 Java 的运行环境和 Java 工具。",
+                "url": "https://www.matools.com/api/java8",
+                "logo": "./images/logos/jdk_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 48,
+                "name": "Thymeleaf 中文教程",
+                "description": "Thymeleaf 是适用于 Web 和独立环境的现代服务器端 Java 模板引擎，能够处理 HTML，XML，JavaScript，CSS 甚至纯文本。",
+                "url": "https://www.docs4dev.com/docs/zh/thymeleaf/3.0/reference/using_thymeleaf.html",
+                "logo": "./images/logos/thymeleaf_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 61,
+                "name": "Layui",
+                "description": "layui 是一套开源的 Web UI 解决方案，layui框架其内部采用的是自身经典的模块化规范，并遵循原生 HTML/CSS/JS 的开发方式，极易上手，拿来即用。",
+                "url": "https://www.layuiweb.com",
+                "logo": "./images/logos/layui_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 62,
+                "name": "Element-ui",
+                "description": "Element UI 是一套采用 Vue 2.0 作为基础框架实现的组件库，一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的组件库，提供了配套设计资源，帮助网站快速成型。",
+                "url": "https://element.eleme.cn",
+                "logo": "./images/logos/element-ui_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 79,
+                "name": "Redis 教程",
+                "description": "比较常用的缓存工具，支持大部分数据类型，对Spring Boot 有很好的融合！",
+                "url": "https://redis.io/documentation",
+                "logo": "./images/logos/redis_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 108,
+                "name": "Spring-boot-maven 官方教程",
+                "description": "SpringBoot maven 插件官方教程",
+                "url": "https://docs.spring.io/spring-boot/docs/current/maven-plugin/reference/htmlsingle/",
+                "logo": "./images/logos/97af021209574e9db4ffec3cea2d7d5b.PNG",
+                "catalogId": null,
+                "catalogName": null
+            }
+        ]
+    },
+    {
+        "catalogId": 15,
+        "catalogName": "开源镜像站",
+        "resources": [
+            {
+                "id": 7,
+                "name": "阿里开源镜像站",
+                "description": "阿里巴巴开源镜像站，免费提供Linux镜像下载服务，拥有Ubuntu、CentOS、Deepin、MongoDB、Apache、Maven、Composer等多种开源软件镜像源，此外还提供域名解析DNS、网络授时NTP等服务，致力于为互联网用户提供全面，高效和稳定的基础服务。",
+                "url": "https://developer.aliyun.com/mirror",
+                "logo": "./images/logos/ali_images_site_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 8,
+                "name": "网易开源镜像站",
+                "description": "欢迎使用网易开源镜像站！",
+                "url": "https://mirrors.163.com",
+                "logo": "./images/logos/wangyi_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 9,
+                "name": "华为开源镜像站",
+                "description": "提供了镜像，镜像站，软件开发，编译构建，maven，npm，pypi，nuget，php，rubygem，sbt，操作系统！",
+                "url": "https://mirrors.huaweicloud.com",
+                "logo": "./images/logos/huawei_images_site_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 10,
+                "name": "北京理工大学开源镜像服务",
+                "description": "欢迎访问北京理工大学网络信息技术中心支持、网络开拓者协会维护的北理工开源镜像服务。您可以通过 IPv6，使用 HTTP 或 RSYNC 协议访问镜像资源。",
+                "url": "https://mirror.bit.edu.cn/web",
+                "logo": "./images/logos/bit_edu_images_site_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 11,
+                "name": "清华大学开源软件镜像站",
+                "description": "清华大学开源软件镜像站，致力于为国内和校内用户提供高质量的开源软件镜像、Linux 镜像源服务，帮助用户更方便地获取开源软件。本镜像站由清华大学 TUNA 协会负责运行维护。",
+                "url": "https://mirrors.tuna.tsinghua.edu.cn",
+                "logo": "./images/logos/tsinghua_images_site_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            }
+        ]
+    },
+    {
+        "catalogId": 16,
+        "catalogName": "文档教程",
+        "resources": [
+            {
+                "id": 46,
+                "name": "Markdown 官方教程",
+                "description": "Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档，Markdown文件的后缀名便是“.md”。",
+                "url": "https://markdown.com.cn",
+                "logo": "./images/logos/markdown_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 71,
+                "name": "Programming Book",
+                "description": "鸠摩搜索, 文档, 电子书, 摩鸠, 鸠魔, 鸩摩, 九磨, 官网, 就摸, 鸠, kindle, ebook, jiumosoushu, 找书",
+                "url": "https://evanli.github.io/programming-book",
+                "logo": "./images/logos/pbook_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            }
+        ]
+    },
+    {
+        "catalogId": 17,
+        "catalogName": "效率工具",
+        "resources": [
+            {
+                "id": 49,
+                "name": "Everything",
+                "description": "超级好用的磁盘快速检索工具，如果你想快速在磁盘检索你所需要的文件，该工具能够秒级别检索到。",
+                "url": "https://www.voidtools.com/zh-cn",
+                "logo": "./images/logos/everything_logo.jpg",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 50,
+                "name": "桌面日历",
+                "description": "DesktopCal是一款功能强大的桌面日历，包含待办事项、农历、24节气、日程安排等功能，而且能够直接平铺在桌面，我觉得能够养成一个每天制定计划、完成计划的习惯会对工作、学习效率大大的提升，而这款工作能够提供强有力的帮助。",
+                "url": "http://chs.desktopcal.com/chs",
+                "logo": "./images/logos/desktopcal_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 51,
+                "name": "7zip",
+                "description": "一款超级轻量级、快速的桌面解压软件，非常好用！",
+                "url": "https://www.7-zip.org",
+                "logo": "./images/logos/7zip_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 52,
+                "name": "Snipaste",
+                "description": "Snipaste 是一个简单但功能强大的桌面截图工具，支持贴图，编辑图片，快捷截图并保存！",
+                "url": "https://www.snipaste.com",
+                "logo": "./images/logos/snipaste_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 60,
+                "name": "uTools",
+                "description": "uTools 是一个极简、插件化、跨平台的现代化桌面软件。通过自由选配丰富的插件，打造你得心应手的工具集合。通过快捷键（默认alt+space）就可以快速呼出这个搜索框。它相当聪明，可以支持输入、拖拽、自动粘贴等作为输入源，相应的插件也早已准备就绪，统一的设计风格和操作方式，助你高效的得到结果。",
+                "url": "https://www.u.tools",
+                "logo": "./images/logos/utools_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 109,
+                "name": "123APPS",
+                "description": "免费的、在线编辑和剪切视频、音频和PDF文件的工具网站",
+                "url": "https://123apps.com",
+                "logo": "./images/logos/123apps_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            }
+        ]
+    },
+    {
+        "catalogId": 18,
+        "catalogName": "极客教程",
+        "resources": [
+            {
+                "id": 78,
+                "name": "国内加速Github的几种方案",
+                "description": "国内加速访问GitHub的链接，取自他人博客，慎用！",
+                "url": "https://qu.js.cn/how-to-speed-github",
+                "logo": "./images/logos/x.png",
+                "catalogId": null,
+                "catalogName": null
+            }
+        ]
+    },
+    {
+        "catalogId": 19,
+        "catalogName": "在线学习",
+        "resources": [
+            {
+                "id": 75,
+                "name": "慕课网",
+                "description": "程序员的学习工厂。",
+                "url": "https://www.imooc.com",
+                "logo": "./images/logos/imooc_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 76,
+                "name": "极客时间",
+                "description": "IT知识付费平台。",
+                "url": "https://time.geekbang.org",
+                "logo": "./images/logos/geekbang_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 77,
+                "name": "阿里云大学",
+                "description": "致力于打造从IT时代向DT时代转型过程中在云计算、大数据、人工智能、云安全等领域一所创新人才工场",
+                "url": "https://edu.aliyun.com",
+                "logo": "./images/logos/aliyun_edu_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            }
+        ]
+    },
+    {
+        "catalogId": 20,
+        "catalogName": "OJ Online",
+        "resources": [
+            {
+                "id": 82,
+                "name": "NOWCODER",
+                "description": "求职神器，面试经验分享平台，在线学习练习的平台",
+                "url": "https://www.nowcoder.com/",
+                "logo": "./images/logos/nowcoder_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 83,
+                "name": "力扣",
+                "description": "一个比较适合程序员刷题的网站！",
+                "url": "https://leetcode-cn.com/problemset/all",
+                "logo": "./images/logos/leetcode_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 84,
+                "name": "LintCode 领扣",
+                "description": "刷题网站，可分晋升等级！",
+                "url": "https://www.lintcode.com",
+                "logo": "./images/logos/lintcode_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            }
+        ]
+    },
+    {
+        "catalogId": 22,
+        "catalogName": "H5 素材",
+        "resources": [
+            {
+                "id": 85,
+                "name": "php 中文网",
+                "description": "包含各种前端页面模板，和小工具，免费！",
+                "url": "https://www.php.cn/xiazai",
+                "logo": "./images/logos/php_zh_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 94,
+                "name": "千图网",
+                "description": "千图搭建了一个以创意作品库为核心,围绕着设计人群及泛办公人群提供优质创意服务的基础平台",
+                "url": "https://www.58pic.com",
+                "logo": "./images/logos/qiantu_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 95,
+                "name": "千库网",
+                "description": "千库网隶属于上海图魂网络科技有限公司，是国内深受用户欢迎的PNG图片素材网站，以“做设计，不抠图”为口号，以免抠PNG元素为核心，衍生出背景图库设计模板、艺术字库、原创插画、办公文档、视频音频等细分设计素材。",
+                "url": "https://588ku.com",
+                "logo": "./images/logos/qianku_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 96,
+                "name": "我图网",
+                "description": "我图网致力于成为正版商用设计交易平台的领导者，为用户提供有价值的设计，前瞻版权时代脚步，倡导国家版权发展计划，让版权保护用户权益，节省企业人力成本。通过不同的产品类型帮助多元化用户群体解决不同核心的问题。",
+                "url": "https://www.ooopic.com",
+                "logo": "./images/logos/wotu_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 97,
+                "name": "90设计",
+                "description": "专注电商设计",
+                "url": "https://90sheji.com",
+                "logo": "./images/logos/90sheji_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 98,
+                "name": "呢图网",
+                "description": "原创素材共享平台",
+                "url": "https://www.nipic.com",
+                "logo": "./images/logos/nipic_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 99,
+                "name": "包图网",
+                "description": "平台联合30w+顶尖设计师、创意工作室以及国内外图库平台，汇集1.5亿+优质正版内容，为各行各业输出正版的图片、视频、音频、源文件素材。截止2020年12月，注册用户突破5000W，内容累积下载量超过10亿次。",
+                "url": "https://ibaotu.com",
+                "logo": "./images/logos/baotu_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 100,
+                "name": "PNG素材网",
+                "description": "免费PNG图片素材资源分享网站，海量元素、每日更新、免费下载。",
+                "url": "https://www.pngsucai.com",
+                "logo": "./images/logos/pngsucai_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            }
+        ]
+    },
+    {
+        "catalogId": 24,
+        "catalogName": "矢量图标素材",
+        "resources": [
+            {
+                "id": 86,
+                "name": "iconfont",
+                "description": "阿里旗下的矢量图标库",
+                "url": "https://www.iconfont.cn",
+                "logo": "./images/logos/iconfont_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 87,
+                "name": "iconfinder",
+                "description": "2,100,000+ free and premium vector icons.",
+                "url": "https://www.iconfinder.com",
+                "logo": "./images/logos/iconfinder_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 88,
+                "name": "iconfont",
+                "description": "阿里巴巴的矢量图标库",
+                "url": "https://www.iconfont.cn",
+                "logo": "./images/logos/iconfont_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 89,
+                "name": "Font Awesome 中文网",
+                "description": "Font Awesome 字体为您提供可缩放矢量图标,它可以被定制大小、颜色、阴影以及任何可以用CSS的样式。",
+                "url": "http://www.fontawesome.com.cn/get-started",
+                "logo": "./images/logos/fontawesome_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 90,
+                "name": "ionic",
+                "description": "Premium designed icons for use in web, iOS, Android, and desktop apps. Support for SVG and web font. Completely open source, MIT licensed and built by Ionic.",
+                "url": "https://ionic.io/ionicons",
+                "logo": "./images/logos/ionicons_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 91,
+                "name": "findicons",
+                "description": "Free icons and icon packs,+500,000 VECTOR ICONS TO DOWNLOAD",
+                "url": "https://findicons.com",
+                "logo": "./images/logos/findicons_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 92,
+                "name": "Material Icons",
+                "description": "Material Icons are available in five styles and a range of downloadable sizes and densities. The icons are based on the core Material Design principles and metrics.",
+                "url": "https://fonts.google.com",
+                "logo": "./images/logos/material_icon_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            }
+        ]
+    },
+    {
+        "catalogId": 25,
+        "catalogName": "字体资源",
+        "resources": [
+            {
+                "id": 101,
+                "name": "字体仓库",
+                "description": "最全的免费商业字体库",
+                "url": "https://www.ziticangku.com",
+                "logo": "./images/logos/ziticangku_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 102,
+                "name": "方正字库",
+                "description": "方正字库隶属于北京北大方正电子有限公司（简称方正电子）。方正电子是专业从事中文字库开发的厂商，现拥有各种中、西文以及多民族文种字库数百款。作为享誉全球的方正中文电子出版系统的重要组成部分，方正字库一向以字款丰富，品质精良，适用面广，能迅速满足客户需求而在专业出版、印刷领域中享有盛誉",
+                "url": "http://www.foundertype.com",
+                "logo": "./images/logos/fangzheng_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 103,
+                "name": "google font",
+                "description": "google平台的字体库",
+                "url": "https://fonts.google.com",
+                "logo": "./images/logos/google_font_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 104,
+                "name": "MyFonts",
+                "description": "MyFonts offers the largest selection of professional fonts for any project.Over 130,000 available fonts, and counting",
+                "url": "https://www.myfonts.com",
+                "logo": "./images/logos/myfont_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            }
+        ]
+    },
+    {
+        "catalogId": 26,
+        "catalogName": "高清壁纸",
+        "resources": [
+            {
+                "id": 111,
+                "name": "Pexels",
+                "description": "免费素材图片和视频，可以在任何地方使用。✓ 高质量 ✓ 100% 免费✓ 无需注明归属。",
+                "url": "https://www.pexels.com/zh-cn/",
+                "logo": "./images/logos/pexels_logo.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 112,
+                "name": "wallhaven",
+                "description": "Your source for the best high quality wallpapers on the Net!",
+                "url": "https://wallhaven.cc",
+                "logo": "./images/logos/wallhaven.jpg",
+                "catalogId": null,
+                "catalogName": null
+            }
+        ]
+    },
+    {
+        "catalogId": 27,
+        "catalogName": "图片压缩",
+        "resources": [
+            {
+                "id": 113,
+                "name": "yalijuda",
+                "description": "图片压缩,免费图片压缩,图片在线压缩,免费图片压缩工具,图片大小压缩,图像有损压缩,图像无损压缩,jpg图片压缩,png图像压缩,gif压缩,gif动图压缩",
+                "url": "http://www.yalijuda.com/",
+                "logo": "./images/logos/81a83783c78bbe2002d50d4a16c55e21.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 114,
+                "name": "Picdiet",
+                "description": "Picdiet是一款用JavaScript编写而成的图片压缩神器，所有压缩过程都在浏览器中进行，完全免费",
+                "url": "https://www.picdiet.com/zh-cn",
+                "logo": "./images/logos/picdiet.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 115,
+                "name": "Recompressor",
+                "description": "优化 PNG、JPG 和 SVG 图像的压缩 — 100% 免费 — 完全在浏览器中完成 — 选择文件大小和质量之间的完美平衡。",
+                "url": "https://zh.recompressor.com/",
+                "logo": "./images/logos/recompressor.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 116,
+                "name": "Squoosh",
+                "description": "Squoosh is the ultimate image optimizer that allows you to compress and compare images with different codecs in your browser.",
+                "url": "https://squoosh.app/",
+                "logo": "./images/logos/squoosh.png",
+                "catalogId": null,
+                "catalogName": null
+            },
+            {
+                "id": 117,
+                "name": "Tinypng",
+                "description": "Make your website faster and save bandwidth. TinyPNG optimizes your WebP, PNG and JPEG images by 50-80% while preserving full transparency!",
+                "url": "https://tinypng.com/",
+                "logo": "./images/logos/tinypng.png",
+                "catalogId": null,
+                "catalogName": null
+            }
+        ]
+    }
+]

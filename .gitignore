@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.log
+.deploy*/
+_multiconfig.yml
+.vscode/

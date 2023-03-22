@@ -1,0 +1,222 @@
+[
+    {
+        "id": 13,
+        "name": "娱乐资源",
+        "icon": "iconfont icon-yule",
+        "parentId": null,
+        "dirFlag": 2,
+        "children": null
+    },
+    {
+        "id": 18,
+        "name": "极客教程",
+        "icon": "iconfont icon-jike",
+        "parentId": null,
+        "dirFlag": 2,
+        "children": null
+    },
+    {
+        "id": 1,
+        "name": "学习资源",
+        "icon": "layui-icon layui-icon-read",
+        "parentId": null,
+        "dirFlag": 1,
+        "children": [
+            {
+                "id": 2,
+                "name": "模型检测",
+                "icon": "iconfont icon-prism",
+                "parentId": 1,
+                "dirFlag": 2,
+                "children": null
+            },
+            {
+                "id": 3,
+                "name": "论文检索与写作",
+                "icon": "iconfont icon-paper",
+                "parentId": 1,
+                "dirFlag": 2,
+                "children": null
+            },
+            {
+                "id": 4,
+                "name": "Android 资源",
+                "icon": "iconfont icon-android",
+                "parentId": 1,
+                "dirFlag": 2,
+                "children": null
+            },
+            {
+                "id": 16,
+                "name": "文档教程",
+                "icon": "iconfont icon-icon_study",
+                "parentId": 1,
+                "dirFlag": 2,
+                "children": null
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "实用工具",
+        "icon": "layui-icon layui-icon-star",
+        "parentId": null,
+        "dirFlag": 1,
+        "children": [
+            {
+                "id": 6,
+                "name": "搜索引擎",
+                "icon": "iconfont icon-search",
+                "parentId": 5,
+                "dirFlag": 2,
+                "children": null
+            },
+            {
+                "id": 7,
+                "name": "翻译工具",
+                "icon": "iconfont icon-translate",
+                "parentId": 5,
+                "dirFlag": 2,
+                "children": null
+            },
+            {
+                "id": 8,
+                "name": "文档写作",
+                "icon": "iconfont icon-write",
+                "parentId": 5,
+                "dirFlag": 2,
+                "children": null
+            },
+            {
+                "id": 15,
+                "name": "开源镜像站",
+                "icon": "iconfont icon-icon-storage2",
+                "parentId": 5,
+                "dirFlag": 2,
+                "children": null
+            },
+            {
+                "id": 17,
+                "name": "效率工具",
+                "icon": "iconfont icon-xiaolv",
+                "parentId": 5,
+                "dirFlag": 2,
+                "children": null
+            },
+            {
+                "id": 27,
+                "name": "图片压缩",
+                "icon": null,
+                "parentId": 5,
+                "dirFlag": 2,
+                "children": null
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "开发资源",
+        "icon": "iconfont icon-dev_resource",
+        "parentId": null,
+        "dirFlag": 1,
+        "children": [
+            {
+                "id": 10,
+                "name": "开发工具",
+                "icon": "iconfont icon-dev_tools",
+                "parentId": 9,
+                "dirFlag": 2,
+                "children": null
+            },
+            {
+                "id": 11,
+                "name": "技术社区",
+                "icon": "iconfont icon-home",
+                "parentId": 9,
+                "dirFlag": 2,
+                "children": null
+            },
+            {
+                "id": 12,
+                "name": "代码平台",
+                "icon": "layui-icon layui-icon-fonts-code",
+                "parentId": 9,
+                "dirFlag": 2,
+                "children": null
+            },
+            {
+                "id": 14,
+                "name": "技术文档",
+                "icon": "iconfont icon-book1",
+                "parentId": 9,
+                "dirFlag": 2,
+                "children": null
+            },
+            {
+                "id": 19,
+                "name": "在线学习",
+                "icon": "iconfont icon-entertainment",
+                "parentId": 9,
+                "dirFlag": 2,
+                "children": null
+            },
+            {
+                "id": 20,
+                "name": "OJ Online",
+                "icon": "layui-icon layui-icon-ok",
+                "parentId": 9,
+                "dirFlag": 2,
+                "children": null
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "素材资源",
+        "icon": "iconfont icon-sucai",
+        "parentId": null,
+        "dirFlag": 1,
+        "children": [
+            {
+                "id": 22,
+                "name": "H5 素材",
+                "icon": "iconfont icon-h",
+                "parentId": 21,
+                "dirFlag": 2,
+                "children": null
+            },
+            {
+                "id": 23,
+                "name": "平面资源",
+                "icon": "iconfont icon-radio-off",
+                "parentId": 21,
+                "dirFlag": 2,
+                "children": null
+            },
+            {
+                "id": 24,
+                "name": "矢量图标素材",
+                "icon": "iconfont icon-at",
+                "parentId": 21,
+                "dirFlag": 2,
+                "children": null
+            },
+            {
+                "id": 25,
+                "name": "字体资源",
+                "icon": "iconfont icon-font-size",
+                "parentId": 21,
+                "dirFlag": 2,
+                "children": null
+            },
+            {
+                "id": 26,
+                "name": "高清壁纸",
+                "icon": "iconfont icon-radio-off",
+                "parentId": 21,
+                "dirFlag": 2,
+                "children": null
+            }
+        ]
+    }
+]
