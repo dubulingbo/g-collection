@@ -56,10 +56,10 @@
     width: 200px;
     display: flex;
     padding: 10px 5px;
-    background-color: #eee;
-    border-radius: 3px;
+    background-color: #f1f2f3;
+    border-radius: 4px;
     align-items: center;
-    color: #666;
+    color: #18191c;
 }
 
 .g-card:hover {
