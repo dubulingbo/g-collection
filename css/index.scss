@@ -1,0 +1,126 @@
+:root {
+    --card-bg: #F6F7F8;
+    --card-color: #61666D;
+    --card-border-color: #F1F2F3;
+    --card-hover-bg: #5FB878;
+    --card-hover-color: #FFFFFF;
+}
+
+.layui-side {
+    top: 0 !important;
+}
+
+.side-logo {
+    border-bottom: 1px solid #666;
+    height: 60px !important;
+    box-sizing: border-box;
+}
+
+.side-container {
+    position: relative;
+    top: 60px;
+    height: calc(100vh - 60px);
+
+}
+
+.layui-body {
+    top: 0 !important;
+}
+
+.left-warpper {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    overflow-y: scroll;
+
+    .main-container {
+        flex: 1;
+        padding: 15px;
+
+        .catalog-title {
+            font-size: 1.22rem;
+            color: rgba(0 0 0 / 0.9);
+            user-select: none;
+            box-sizing: border-box;
+            padding: 30px 0 15px;
+
+            span {
+                margin-left: 10px;
+            }
+        }
+
+        .g-card-block {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            justify-content: space-between;
+            grid-gap: 20px;
+
+            .g-card {
+                box-sizing: border-box;
+                display: flex;
+                padding: 10px;
+                align-items: center;
+                border: 1px solid var(--card-border-color);
+                border-radius: 6px;
+                background-color: var(--card-bg);
+                color: var(--card-color);
+                font-weight: 400;
+                transition: background-color .3s, color .3s;
+
+                &:hover {
+                    color: var(--card-hover-color);
+                    background-color: var(--card-hover-bg) !important;
+                }
+
+                .card-icon {
+                    height: 55px;
+                    width: 55px;
+                    border-radius: 50%;
+                    box-sizing: border-box;
+                }
+
+                .card-main {
+                    margin-left: 10px;
+                    display: flex;
+                    flex-direction: column;
+                    width: calc(100% - 65px);
+
+                    .card-link {
+                        text-decoration: none;
+                        font-size: 1.01rem;
+                        text-overflow: ellipsis;
+                        overflow: hidden;
+                        white-space: nowrap;
+                        color: inherit;
+
+                        &:hover {
+                            color: rgba(255 255 255 / 0.6);
+                        }
+                    }
+
+                    .card-desc {
+                        text-overflow: ellipsis;
+                        overflow: hidden;
+                        padding-top: 6px;
+                        font-size: 12.5px;
+                        line-height: 16px;
+                        display: -webkit-box;
+                        -webkit-line-clamp: 2;
+                        -webkit-box-orient: vertical;
+                    }
+
+                }
+            }
+        }
+
+    }
+
+    .footer-container {
+        height: 80px;
+        background-color: #fcfcfc;
+        font-size: 1.05rem;
+        text-align: center;
+        padding: 20px 0 10px;
+        box-sizing: border-box;
+    }
+}

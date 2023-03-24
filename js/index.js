@@ -40,7 +40,7 @@ layui.use(['element'], function () {
                     let s = '<div class="g-card">'
                         + '<img class="card-icon" src="' + c.logo + '" alt="' + c.name + '">'
                         + '<div class="card-main">'
-                        + '<a class="card-link" target="_blank" href="' + c.url + '">' + c.name + '</a>'
+                        + '<a class="card-link" target="_blank" href="' + c.url + '" title="' + c.name + '">' + c.name + '</a>'
                         + '<div class="card-desc" title="' + c.description + '">' + c.description + '</div>'
                         + '</div>'
                         + '</div>'
